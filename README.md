@@ -130,7 +130,7 @@ docker run -p 3000:3000 your-username/my-node-app
 📦 Push to AWS ECR instead of DockerHub
 
 🧑‍💻 Author
-Built with ❤️ by [Your Name]
+Built with ❤️ by meher Prudhvi
 
 
 ---
